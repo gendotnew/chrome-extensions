@@ -21,6 +21,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to Chrome Dev tools.
 - [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) - Adds debugging for Redux to Chrome Dev tools.
 - [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features.
+- [RequestFox](https://chromewebstore.google.com/detail/requestfox-network-qa-mon/lbhhldlnlgceobhpmpkljbefpiilhgmb) - Records the API calls a web page makes, flags failed, slow and duplicate ones, and lets you mock, replay or edit any of them.
 - [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 - [Vuejs Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Adds Vuejs debugging tools to Chrome Dev tools.
 - [What's New on GitHub](https://github.com/flawyte/whats-new-github) - Helps you see easily what happened on GitHub since your last visit.
