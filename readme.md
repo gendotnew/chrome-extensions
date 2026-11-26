@@ -82,6 +82,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) - Provides userscript support for browsers.
 - [Violentmonkey](https://github.com/violentmonkey/violentmonkey) - Provides userscripts support for browsers.
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Can identify the technologies that were used to build a particular website you are viewing.
+- [ZeroTabs](https://chromewebstore.google.com/detail/zerotabs-%E2%80%94-new-tab-dashbo/pnneghjbjdlgcofobgpakeokkikjlkjh) - Free Chrome new tab page that needs a free KnowMan account.
 - [Toast.log](https://toastlog.com/) - Get console errors right on your page.
 - [Search by Image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search.
 - [Web Archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages.
